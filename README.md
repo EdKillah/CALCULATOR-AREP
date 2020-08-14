@@ -66,9 +66,9 @@ En la siguiente imagen se prueba el calculo de la media de una lista con unos va
 
 ## Diagrama de clases
 
-La siguiente imagen muestra los diagramas de clases que permiten la interacción entre el servidor y las clases encargadas de la lectura de archivos solicitados por el cliente.
+La siguiente imagen muestra los diagramas de clases que permiten la interacción entre la calculdora con la lista enlazada y además con el lector de archivo, se trato de mantener una responsabilidad simple entre cada clase para que fuera lo más eficiente posible.
 
-![](resources/diagramas.PNG)
+![](resources/class.PNG)
 
 
 
