@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" time="0.12" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" time="0.16" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin"/>
@@ -65,11 +65,11 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldCalculateStandarDeviation" time="0.018"/>
-  <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldnotCalculateMeanAndStandarDFromFile" time="0.096"/>
-  <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldnotCalculateStandarDeviation" time="0"/>
+  <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldCalculateStandarDeviation" time="0.03"/>
+  <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldnotCalculateMeanAndStandarDFromFile" time="0.12"/>
+  <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldnotCalculateStandarDeviation" time="0.008"/>
   <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldnotCalculateMean" time="0"/>
-  <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldCalculateMeanAndStandarDFromFile" time="0.006"/>
+  <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldCalculateMeanAndStandarDFromFile" time="0.002"/>
   <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldCalculateMean" time="0"/>
   <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldRemoveFromList" time="0"/>
   <testcase classname="edu.escuelaing.arep.intro.linkedlistcalculator.CalculatorTest" name="itShouldRemoveFromList2" time="0"/>
