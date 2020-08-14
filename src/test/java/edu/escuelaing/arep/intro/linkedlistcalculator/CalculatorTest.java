@@ -2,7 +2,7 @@ package edu.escuelaing.arep.intro.linkedlistcalculator;
 
 import static org.junit.Assert.*;
 
-import org.junit.Before;
+
 import org.junit.Test;
 
 import edu.escuelaing.arep.intro.linkedlistcalculator.calculator.Calculator;
